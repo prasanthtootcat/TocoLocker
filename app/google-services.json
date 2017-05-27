@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1074805150610",
+    "firebase_url": "https://tocolocker.firebaseio.com",
+    "project_id": "tocolocker",
+    "storage_bucket": "tocolocker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074805150610:android:a3dc1665773c9d3c",
+        "android_client_info": {
+          "package_name": "tootcat.tocolocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074805150610-a2003n4lev3lnhv041cebcdov92gdo31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tootcat.tocolocker",
+            "certificate_hash": "6ad7077a8ee66b73e2a5baa98e0e725845b38c32"
+          }
+        },
+        {
+          "client_id": "1074805150610-kcvhi5khsp5u9hdgm939oepabgqtt89m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAevI1gDjvHgFAx5bL17F_2hvTVaDiL_8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074805150610-kcvhi5khsp5u9hdgm939oepabgqtt89m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
