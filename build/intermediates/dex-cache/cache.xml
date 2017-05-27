@@ -128,6 +128,15 @@
         <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_ab151e89a39de5be23efa6b5db42c72c370ecb40.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/preshu/TocoLocker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db268088205bd747cefc49e660ef074aa9aed070">
+        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd36fec431ea19a132878d34d5945b48f66881a2/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/root/.android/build-cache/fac3a9ad14a78c8aa8d8533e115809d5f47bef38/output/jars/classes.jar"
         jumboMode="false"
@@ -189,6 +198,15 @@
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
         <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/preshu/TocoLocker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e120c7b24c6d0cc9f4d562d7f6e03e3c1b16c8e4/classes.dex" />
     </item>
     <item
         is-multidex="false"
