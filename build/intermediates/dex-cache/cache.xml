@@ -3,237 +3,219 @@
 
     <item
         is-multidex="false"
-        jar="/root/.android/build-cache/8ed6cf26f88b13ff2717c2780395ce851db0c361/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_d6feaf4a027ee6c15f8e7f6b0d5df67c2178094b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/1919079d79b8e18d61c11b2a3bf005400f96b11d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_d0d8c9c91b4f176f8db0a62521fa6a8146f7b182.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/e2a028cb49a3446fc00141bc36bcce00f3dc337a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_72bf9e5b059aa65f07de20906bf945ac96378dc8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/5d3c11ca0f66a97081064fd826fd3491bf35ac4e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_28161358ddc4eff70e3467d2dd046d5a2b7fb9a2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/f94d00e3eb8685b7b24cbfc8072409191fcd3263/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_a0538b1d6931f9b1dbe9b7a13373c2e503b9e7f2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/3596debd404bcf8e4dd4bb2b82df0994c7178132/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_9acc417bf86259a3ea4bb520356a13859eb19ac0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/e89505fd445c59c39593da920ae3fdc2c1f6070f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_6a9f3a0860b2205709ab77d8246da5bf546da1e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/98a5552ca41ac28dbba5ec7a34ce4eb6cf072b26/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_a0f624c1a94b819498bf306265442a84a68af17d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/0e4d4d3e18ac4e6bfb06cc9e624a8f65a532e0a0/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_26876643102f41c25c2bef485060e3f8ef199c30.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/6548c457c1c13b3e6da1499bd22bc3ae5353eec6/output/jars/classes.jar"
+        jar="C:\Users\preshu\.android\build-cache\44c0f0fb1c7a6393389566b7b6f6409c8bc00e24\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_625349d53dca986d250585fce5a6e01afa14be8f.jar" />
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_b86d1be53e1e99a4a402c96f73951c69c52dfca1.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/.android/build-cache/6b953566f36707726bdc875d920b6558d146cc02/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_97faf54116898add019ea2007c2e879a04376a24.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/ca34236b5dd94af246dc1fbeb4d78f5a66bc4722/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_03ca5cf0ad3053076f293427d24b97fd0bcafee6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/4443a4060ada0b7a92932e5174e4d83aeb7940e5/output/jars/classes.jar"
+        jar="C:\Users\preshu\.android\build-cache\3b7fba4faf6a16603d059ef075f04290ae6d0996\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_c843c0e2b84fc85dda1b201e3607b02bf77cd086.jar" />
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_956d850e13bb7f9281868e360809ab9fa420c07e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/.android/build-cache/66071645308b2b0fc79b47c0244abeaa9688d20d/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_ab151e89a39de5be23efa6b5db42c72c370ecb40.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/preshu/TocoLocker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="db268088205bd747cefc49e660ef074aa9aed070">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bd36fec431ea19a132878d34d5945b48f66881a2/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/fac3a9ad14a78c8aa8d8533e115809d5f47bef38/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_0b78472df05de269905c54f8a36abe5e4c5438e3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/35351c4845a04c6e6090935228b4feb74beb7e91/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_0707fab192be651c5fc7f450255240f652ed2e8a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/8b8160a8f972ae7b481e8855816e3cd29d9316c9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_280d414b70153e1198a137d2e19cc52731a9f0f5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/d61f7897f413b36445d792a4b81bdb9a65faf899/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_a3daee6ef5c2cd379aabf2c22a1415bf61a322ab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/64b0d2f67010ffae92b6c6a168cc823efc0a6db6/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_4c2b528fe751ffcde6d40ff06e624e5731301ef5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_71603e9186bae46f98999e0a31ed8167b724c574.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_76f81077aea9bd1699aabfb9818dc8fa3bde44df.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/preshu/TocoLocker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e120c7b24c6d0cc9f4d562d7f6e03e3c1b16c8e4/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/6e1d86a2782fc8d95bdccdf8f07cf3b71780325e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_f64d43387d02bfdeb43e0a134962b528966b480a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/root/.android/build-cache/93e16e1c899b25bc76a56770ddcb0b77d8c07d1d/output/jars/classes.jar"
+        jar="C:\Users\preshu\.android\build-cache\4be3ef78edb6a6ea22bfae8ad8ce1d60b6c82fc9\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_e473c9090cdc8ce01cbbf31bcf7e50a9acbaf7a8.jar" />
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_29b88d0f9c449bd0108c9ec532854e6f6df854f6.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/root/.android/build-cache/151f1fd98db7edaef828129852763fc258a0c0db/output/jars/classes.jar"
+        jar="C:\Users\preshu\.android\build-cache\c3530e1f36920b906ec975c8ceb1ec0d3e6ed6d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_2e2d01ab9a0990e1a94cd84feb5af4096df8ab5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\5b63b664185f594011f98f348ce0512210811c95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_88e1fe0ead9fbb0d507e884f8b932e09ff491ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\91a93e1345824c84b307110eb87ad1393ec9fc62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_eb2bdebb32f2f1f0b7922f03640a17f27d3e3eb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\7a6b8832c9e1a1f1b4af9c3eaedfb6f92e8bc00d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_5f6b84a0b5d5ea4436f2d909aeec8bf632c4fead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\ee05bddcc6f99a565ae6203559c9669dbea30ec4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_86a22012138335037b4cdf26133ec2158bd177b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\9a200c1a0c55a1bcb943c2653e5a007db1996cd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_17d5b40f41d9730fb57fd659bebedb3a6a428487.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\1c8714c10d8bc07496c189083be8bdfcf542edad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_9ad5568851ac8cca9759ed98352cea29011f1a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\3c99664367c2204746a4bccaa24604392a883c7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_92a4c02ecb02bab023197cb5667995ed6e42c7ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\49daa02797815c40c28a35a6ebcd7f9275101d69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_d5a77fda892a11ae423933d89a1caffbffc0378a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_552ac7ce87a96c7fa77e2a9e7afb51f66d4b6a22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\80a9840a94b39245fea996fef053a2b6f5bb319c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_ddceaa9011d8a39910acc042a30b59281fe3ee68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\448b62a7a8d8c1e5c4b4a9fbc8328a79bee05b6d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_5d43ab003b913bad45a160e57fb2365b07c0f207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\e051e6e15d5b94f0b4c23f3708be475fb33e8a08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_5bb50c522551b40d7e24ca13fb18f4d21b2e9bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\0b4e908a4db317568f53faaada78121b3780bc7c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_17f830e2dcd7b44a2ce4d723323726bbb6c9fe23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dcf79449151e175d692f630e5ca86951d0e1b71a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\f8d65a2bb465ed44bf383b16695302c430140fe8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_2dece1aa64bfbda821a9efd089398d18b0dec550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\61b2e13a7f5e6e1bce4439ba9b9c345d9574f6ba\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="1d193729baf37df3d902a423291423a0df7e3779">
-        <dex dex="/home/preshu/TocoLocker/app/build/intermediates/pre-dexed/debug/classes_51d2cdc0b8837cb822367cd476ee370dfc56b216.jar" />
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_c66b7ed07d2adf49c926fd756c413852a460a332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\17b08f4bb63be60d9f95f11d717f359a77b90163\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_0be023762bdaeb48c010fa79866867d383d887c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\085110b7f4d88fd870c3217ed3a099be92b8f1f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_46770b16981270407f777d8f0d9f3f10392ab72d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\69af5c1ea4c77528c8a0b3c9d0b9229a8be0f236\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_de2597dc501070eeb1991eab918e3b14874ec10b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\preshu\.android\build-cache\314f4bbe2fce94074dfd2d40273f20fc94d8d3ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="S:\Education\Android\My_projects\TocoLocker\app\build\intermediates\pre-dexed\debug\classes_6ad5ddb25504627ebc6f79359c486925e2ff98f2.jar" />
     </item>
 
 </items>
